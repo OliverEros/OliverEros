@@ -22,4 +22,4 @@ Software developer based in the UK with 5+ years of commercial experience buildi
 ## Get in touch
 
 - Email: olivereros@protonmail.com
-- LinkedIn: [www.linkedin.com/in/olivereros]
+- LinkedIn: www.linkedin.com/in/olivereros
